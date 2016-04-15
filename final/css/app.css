@@ -1,0 +1,179 @@
+.row1{
+
+    background-color:#33adff;
+    background-size: cover;
+    margin: 0;
+    padding:10rem;
+    height: 30rem;
+
+
+    text-align: right;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+
+}
+
+html{
+    width: 100%;
+    padding: 0;
+    margin: 0
+}
+* {font-family:arial;
+    margin:0;
+    padding:0;
+}
+.logo {font-size:40px;
+    font-weight:bold;
+    color:#00a;
+    font-style:italic;
+}
+.intro {color:#777;
+    font-style:italic;
+    margin:10px 0;}
+.menu {background:#00a;
+    color:#fff;
+    height:40px;
+    line-height:40px;
+    letter-spacing:1px;
+    width:100%;
+}
+.content {
+    margin-top:10px;
+}
+.menu-padding {
+    padding-top:40px;
+}
+.content {
+    padding:10px;
+}
+.content p {
+    margin-bottom:20px;
+}
+
+
+
+.menu{
+    background-color: black;
+    padding-top: 0;
+    margin-top: 0;
+}
+.row2{
+    height: 20rem;
+    width: 100%;
+    background-color: white;
+    float: left;
+    margin: 0 auto;
+    display: inline;
+    font-family: 'Poiret One', cursive;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Poiret One', cursive;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.p{
+    padding: 2px;
+}
+
+.active {
+    background-color: #33adff;
+}
+.one{
+    height: 10%;
+    background-color:grey;
+    border-right: 3em solid black;
+     color: white;
+
+}
+.two{
+     height: 10%;
+    background-color:grey;
+    border-right: 3em solid black;
+     color: white;
+
+}
+.three{
+     height: 10%;
+    background-color:grey;
+    border-right: 3em solid black;
+    color: white;}
+.four{
+
+     height: 10%;
+    background-color:grey;
+    border-right: 3em solid black;
+     color: white;
+}
+/*
+.row3{
+padding-top: 1em;
+    margin: 0;
+
+    height: 2%;
+    opacity: 0.7;
+
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+
+}
+*/
+.row{
+    font-family: 'Poiret One', cursive;
+    font-family: 'Poiret One', cursive;
+}
+.about{
+    font-family: 'Poiret One', cursive;
+
+}
+.middle{
+    border: solid white;
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-color: black;
+    text-align: center;
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+
+}
+#contact{
+    align-content: center;
+   text-align: center;
+    margin: 0 auto;
+}
+#tools{
+    text-align: center;
+    align-content: center;
+
+}
+
+
