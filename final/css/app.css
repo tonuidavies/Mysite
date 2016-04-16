@@ -4,7 +4,7 @@
     background-size: cover;
     margin: 0;
     padding:10rem;
-    height: 30rem;
+    height: 12em;
 
 
     text-align: center;
@@ -106,28 +106,30 @@ li a:hover:not(.active) {
 .one{
     height: 10%;
     background-color:grey;
-    border-right: 3em solid black;
      color: white;
+     border: 2px solid white;
 
 }
 .two{
      height: 10%;
     background-color:grey;
-    border-right: 3em solid black;
      color: white;
+     border: 2px solid white;
 
 }
 .three{
      height: 10%;
     background-color:grey;
-    border-right: 3em solid black;
-    color: white;}
+    color: white;
+     border: 2px solid white;
+
+}
 .four{
 
      height: 10%;
     background-color:grey;
-    border-right: 3em solid black;
      color: white;
+     border: 2px solid white;
 }
 /*
 .row3{
@@ -154,12 +156,8 @@ padding-top: 1em;
 
 }
 .middle{
-    border: solid white;
+    border: 2px solid white;
     margin: 0 auto;
-    padding-top: 2em;
-    padding-top: 3em;
-    padding-bottom: 3em;
-    background-color: black;
     text-align: center;
     text-align: center;
     font-family: 'Muli', sans-serif;
@@ -173,6 +171,19 @@ padding-top: 1em;
 #tools{
     text-align: center;
     align-content: center;
+
+}
+.center{
+    text-align: center;
+    align-content: center;
+    font-family: 'Muli', sans-serif;
+}
+.footer{
+     background-color:#33adff;
+    background-size: cover;
+    margin: 0;
+    padding:10rem;
+    height: 2em;
 
 }
 
